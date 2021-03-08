@@ -1,0 +1,16 @@
+{
+    "name": "Fa-Track",
+    "short_name": "Fa-Track",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#2A3443",
+    "description": "Pwa App for Catologueing books",
+    "theme_color": "#2A3443",
+    "icons": [
+      {
+        "src": "src/logo.svg",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

@@ -1,0 +1,1 @@
+A Pwa Application built using ReactJs and NodeJs, i have used the Google Books Api to search for and add books to the profile, apart from the features of GooodReads you can add notes to your books, so that you can be at the top of your reading Stack!
